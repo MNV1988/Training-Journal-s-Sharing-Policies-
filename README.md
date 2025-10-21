@@ -98,26 +98,26 @@ Schedule day 1:
 > <i class="fa fa-arrow-left"></i> **Prerequisites**  
 > To be able to follow this course, learners should have knowledge in:
 > 
-> 1. Basic knowlegde of HTML  
-> 2. Basic knowledge of ...
-> 3. Being comfortable working with ....  
+> 1. Basic knowledge of the FAIR principles
+> 2. Basic knowledge of Open Sciences
+> 3. Basic Knowledge of Research Data Management 
 >
 > <i class="fa fa-bookmark"></i> **Description**  This course consist of .....
 > 
 > <i class="fa fa-arrow-right"></i> **Learning Outcomes:**  
 > By the end of the course, learners will be able to:
 >
-> 1. Define what ..... [Remembering] 
+> 1. Recognize Journal's Policies of Data Sharing ..... [Remembering] 
 >
-> 2. Discuss and explain ..... [Understanding] 
+> 2. Choose a repository to register data and or meta-data [Understanding] 
 >
-> 3. Apply and modify ..... [Applying] 
+> 3. Identify who to contact to finish fulfilling the Journal's Data Sharing Policies..... [Applying] 
 >
-> 4. Compare ..... [Analysing] 
+> 4. Compare different options of repositories and be able to choose the right one [Analysing] 
 >
-> 5. Evaluate and select ..... [Evaluating] 
+> 5. Evaluate and select repositories [Evaluating] 
 >
-> 6. Create and integrate ..... [Creating]
+> 6. Create and integrate an integrate in a repository [Creating]
 >
 >> Check more about [Bloom's taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) to categorize the levels in educational goals
 >
@@ -144,7 +144,7 @@ Schedule day 1:
 
 Authors
 
-- [Name](@[orcid](https://orcid.org/XXXX)
+- Maria Vivas-Romero (@[orcid](https://orcid.org/XXXX)
 
 Contributors
 
@@ -265,6 +265,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
