@@ -107,17 +107,13 @@ Schedule day 1:
 > <i class="fa fa-arrow-right"></i> **Learning Outcomes:**  
 > By the end of the course, learners will be able to:
 >
-> 1. Recognize Journal's Policies of Data Sharing ..... [Recognizing] 
+> 1. Recognize Journal's Policies of Data Sharing .
 >
-> 2. Choose a repository to register data and or meta-data [choosing] 
+> 2. Choose a repository to register data and or meta-data.
 >
-> 3. Identify who to contact to finish fulfilling the Journal's Data Sharing Policies..... [Identifying] 
+> 3. Identify who to contact to finish fulfilling the Journal's Data Sharing Policies.
 >
-> 4. Compare different options of repositories and be able to choose the right one [Comparing] 
->
-> 5. Evaluate and select repositories [Evaluating] 
->
-> 6. Create and integrate an integrate in a repository [Creating]
+>  
 >
 >> Check more about [Bloom's taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) to categorize the levels in educational goals
 >
@@ -265,6 +261,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
