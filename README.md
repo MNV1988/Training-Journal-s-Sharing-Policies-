@@ -107,13 +107,13 @@ Schedule day 1:
 > <i class="fa fa-arrow-right"></i> **Learning Outcomes:**  
 > By the end of the course, learners will be able to:
 >
-> 1. Recognize Journal's Policies of Data Sharing ..... [Remembering] 
+> 1. Recognize Journal's Policies of Data Sharing ..... [Recognizing] 
 >
-> 2. Choose a repository to register data and or meta-data [Understanding] 
+> 2. Choose a repository to register data and or meta-data [choosing] 
 >
-> 3. Identify who to contact to finish fulfilling the Journal's Data Sharing Policies..... [Applying] 
+> 3. Identify who to contact to finish fulfilling the Journal's Data Sharing Policies..... [Identifying] 
 >
-> 4. Compare different options of repositories and be able to choose the right one [Analysing] 
+> 4. Compare different options of repositories and be able to choose the right one [Comparing] 
 >
 > 5. Evaluate and select repositories [Evaluating] 
 >
@@ -144,7 +144,7 @@ Schedule day 1:
 
 Authors
 
-- Maria Vivas-Romero (@[orcid](https://orcid.org/XXXX)
+- Maria Vivas-Romero_(@[orcid](https://orcid.org/XXXX)
 
 Contributors
 
@@ -265,6 +265,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
