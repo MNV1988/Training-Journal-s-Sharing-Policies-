@@ -1,5 +1,5 @@
 <!--
-author:   name last_name
+author:   Maria Vivas-Romero
 email:    trainingandconferences@vib.be
 version:  2.0.0
 language: en
@@ -46,13 +46,13 @@ edition:  1st
 orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"
 -->
 
-# Course Title
+# Grasp the Basics of Publisher’s Data Sharing Basic Agreements
 
 <section>
 
-Hello and welcome to our @tutor workshop! We are very happy to have you here.
+Hello and welcome to our course on Publisher's Data Sharing Agreements! We are very happy to have you here.
 
-This is the @edition edition of this workshop, jointly organised by your organisation and ELIXIR.
+This is the @edition edition of this workshop, organised by Maastricht University FHML.
 
 <img src="./images/globes/41920.jpg" width="350" align="center"/>
 
@@ -65,11 +65,11 @@ Example image to ilustrate the front page of the material. This image was [Desig
 
 ## General context
 
-Welcome to our {{workshop_name}} workshop! We are very happy to have you here.
+Welcome to our Publisher's Data Sharing Agreements workshop! We are very happy to have you here.
 
 This is the {{workshop_edition}} edition of this workshop, jointly organised by the VIB Bioinformatics Core and ELIXIR Belgium.
 
-- The first session (12 & 13 October 2023) is dedicated to Containers (Docker & Singularity) which are great tools for code portability and reproducibility of your analysis. You will learn how to use containers and how to build a container from scratch, share it with others and how to re-use and modify existing containers.
+- The first session (January 21 2026) would allow Researchers to recognize the basic standards of Journals to Data Sharing Policies . You will then be able to book a consultation with a Data Steward to fulfill your publisher's data sharing policies.
 
 The **presentation** which goes alongside this material can be found [here](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/training_material_template/refs/heads/main/supplementary/chapter_01_presentation.md).
 
@@ -91,7 +91,7 @@ Schedule day 1:
 
 > <i class="fa fa-lock"></i> **License:** [Creative Commons Attribution share alike 4.0 International  License](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 >
-> <i class="fa fa-user"></i> **Target Audience:** Researchers, trainers, training providers
+> <i class="fa fa-user"></i> **Target Audience:** Researchers, trainers, Data Stewards
 >
 > <svg xmlns="http://www.w3.org/2000/svg" height="14" width="16" viewBox="0 0 576 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path d="M384 64c0-17.7 14.3-32 32-32H544c17.7 0 32 14.3 32 32s-14.3 32-32 32H448v96c0 17.7-14.3 32-32 32H320v96c0 17.7-14.3 32-32 32H192v96c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h96V320c0-17.7 14.3-32 32-32h96V192c0-17.7 14.3-32 32-32h96V64z"/></svg> **Level:** Beginner  
 >
@@ -265,6 +265,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
