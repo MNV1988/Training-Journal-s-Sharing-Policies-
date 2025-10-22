@@ -4,6 +4,10 @@ email:    trainingandconferences@vib.be
 version:  2.0.0
 language: en
 narrator: UK English Female
+## Training Video
+
+![Video](https://www.youtube.com/watch?v=6lJdhsHVies)  
+[Watch on YouTube](https://www.youtube.com/watch?v=6lJdhsHVies)
 
 icon:     https://vib.be/sites/vib.sites.vib.be/files/logo_VIB_noTagline.svg
 
@@ -261,6 +265,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
