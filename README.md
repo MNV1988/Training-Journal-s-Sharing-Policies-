@@ -4,7 +4,7 @@ email:    trainingandconferences@vib.be
 version:  2.0.0
 language: en
 narrator: UK English Female
-## Training Video
+## PhD FAIR Principles
 
 ![Video](https://www.youtube.com/watch?v=6lJdhsHVies)  
 [Watch on YouTube](https://www.youtube.com/watch?v=6lJdhsHVies)
@@ -265,6 +265,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
