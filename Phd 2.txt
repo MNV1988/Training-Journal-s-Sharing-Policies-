@@ -1,0 +1,221 @@
+1
+00:00:00,000 --> 00:00:15,800
+ I'm doing research about young people of Ghanaian background who grow up between Ghana and Germany.
+
+2
+00:00:15,800 --> 00:00:19,760
+ And my research is part of a bigger project at FASUS called MOTRAIL, which stands for
+
+3
+00:00:19,760 --> 00:00:22,480
+ Mobility Trajectories of Young Lives.
+
+4
+00:00:22,480 --> 00:00:26,960
+ And we're really trying to understand how movements and travels and migration affect
+
+5
+00:00:26,960 --> 00:00:28,240
+ their lives of young people.
+
+6
+00:00:30,000 --> 00:00:34,000
+ What are the things that you think are important for young people?
+
+7
+00:00:34,000 --> 00:00:38,399
+ Yeah, my research is ethnographic.
+
+8
+00:00:38,399 --> 00:00:43,600
+ So that means that I'm spending a lot of time in the field with young people trying to understand
+
+9
+00:00:43,600 --> 00:00:45,079
+ their lives from the inside.
+
+10
+00:00:45,079 --> 00:00:48,960
+ So we're really collecting a lot of different data about their lives.
+
+11
+00:00:48,960 --> 00:00:53,000
+ And this includes all the basic things like their name, where they live, where they're
+
+12
+00:00:53,000 --> 00:00:55,920
+ from, where they've moved to and from in their lives.
+
+13
+00:00:55,920 --> 00:00:59,920
+ But also a lot of other things to try and build a very rich context about their lives
+
+14
+00:00:59,920 --> 00:01:02,600
+ to help us understand what's really going on for them.
+
+15
+00:01:02,600 --> 00:01:08,320
+ So this can include things that might be considered sensitive, things about their racial and ethnic
+
+16
+00:01:08,320 --> 00:01:13,359
+ origin, for example, or about their religious beliefs and things like this.
+
+17
+00:01:13,359 --> 00:01:19,120
+ So the nature of ethnographic field work means that we're really getting embedded in the
+
+18
+00:01:19,120 --> 00:01:23,079
+ lives of the people we're doing research with as much as we can.
+
+19
+00:01:23,079 --> 00:01:28,000
+ And this can mean spending time with them at home, at school, at church, and even going
+
+20
+00:01:28,000 --> 00:01:30,959
+ on trips with them to Ghana to visit family.
+
+21
+00:01:30,959 --> 00:01:36,000
+ So it means that a lot of the data we're collecting includes lots of different aspects of their
+
+22
+00:01:36,000 --> 00:01:40,000
+ lives, including some things that may be considered sensitive.
+
+23
+00:01:40,000 --> 00:01:44,840
+ What are the things that you think are important for young people?
+
+24
+00:01:44,840 --> 00:01:50,079
+ So at the time that GDPR came into force, I was already in the field collecting my data.
+
+25
+00:01:50,079 --> 00:01:54,400
+ So we'd already gone through our ethics approval and our data management plan, and we're already
+
+26
+00:01:54,400 --> 00:01:56,840
+ dealing with data in the field.
+
+27
+00:01:56,840 --> 00:02:01,000
+ So once the GDPR came into effect, then we just had to look at what implications that
+
+28
+00:02:01,000 --> 00:02:03,959
+ might have for how we have to do things differently.
+
+29
+00:02:03,959 --> 00:02:08,520
+ And some of the aspects of the GDPR that are a little bit different or maybe challenging
+
+30
+00:02:08,520 --> 00:02:13,759
+ for qualitative researchers are things around the requirements for consent, for informed
+
+31
+00:02:13,759 --> 00:02:20,639
+ consent, also dealing with sensitive and personal data or this special personal data,
+
+32
+00:02:20,639 --> 00:02:21,639
+ things like this.
+
+33
+00:02:21,639 --> 00:02:24,959
+ And also the storage of data and transfer.
+
+34
+00:02:24,959 --> 00:02:28,599
+ So we had to kind of make sure that these things lined up with the way we were dealing
+
+35
+00:02:28,599 --> 00:02:30,639
+ with our data collection in the project.
+
+36
+00:02:30,639 --> 00:02:36,039
+ What are the things that you think are important for young people?
+
+37
+00:02:36,039 --> 00:02:39,039
+ Yeah, I don't think we received any specific advice.
+
+38
+00:02:39,039 --> 00:02:44,000
+ I mean, I've seen the UM guidelines online and things like this, but because we were
+
+39
+00:02:44,000 --> 00:02:48,120
+ in the field and this meant we were in different countries and not at the university, we didn't
+
+40
+00:02:48,120 --> 00:02:50,479
+ get any specific advice about it directly.
+
+41
+00:02:50,479 --> 00:02:55,919
+ What are the challenges that you face in the future?
+
+42
+00:02:55,919 --> 00:03:00,120
+ I think for qualitative researchers, it's really important to keep in mind the context
+
+43
+00:03:00,120 --> 00:03:05,840
+ in which the GDPR was designed and which context it was designed for.
+
+44
+00:03:05,840 --> 00:03:09,599
+ And that's quite different to the way that qualitative researchers work.
+
+45
+00:03:09,599 --> 00:03:14,680
+ So I think it's important to review the guidelines and implement them in your work, but take them
+
+46
+00:03:14,680 --> 00:03:18,599
+ with a grain of salt or at least adapt them to the way you work.
+
+47
+00:03:18,599 --> 00:03:23,759
+ Things like consent, for example, in the GDPR, it talks about having very explicit consent,
+
+48
+00:03:23,759 --> 00:03:28,159
+ whether in verbal or written form, at the start of data collection.
+
+49
+00:03:28,159 --> 00:03:32,759
+ But often qualitative researchers work with consent as a process that we have very long-term
+
+50
+00:03:32,799 --> 00:03:34,959
+ relationships with people in the field.
+
+51
+00:03:34,959 --> 00:03:38,639
+ And also the nature of the research we're doing, or the questions we're asking, can
+
+52
+00:03:38,639 --> 00:03:44,039
+ also change over time as we explore what's relevant in the field that we're working in.
+
+53
+00:03:44,039 --> 00:03:49,359
+ So I think things like this with consent, making it more of a process with our respondents,
+
+54
+00:03:49,359 --> 00:03:53,959
+ rather than a one-off event at the start of data collection, is really important to keep
+
+55
+00:03:53,959 --> 00:03:54,639
+ in mind.
+
+
